@@ -1,0 +1,266 @@
+{
+    "companies":
+        {
+            "yellow": [
+                {
+                    "name": "БДТ",
+                    "image": "images/yellow/1.PNG",
+                    "profit": [60,130,240,450,800]
+                },
+                {
+                    "name": "Мариинский театр",
+                    "image": "images/yellow/2.PNG",
+                    "profit": [70,150,270,500,850]
+                },
+                {
+                    "name": "МДТ Театр Европы",
+                    "image": "images/yellow/3.PNG",
+                    "profit": [50,110,220,400,700]
+
+                }],
+            "orange": [
+            {
+                "name": "Кунсткамера",
+                "image": "images/orange/1.PNG",
+                "profit": [80.170,330,600,1050]
+
+            },
+            {
+                "name": "Русский музей",
+                "image": "images/orange/2.PNG",
+                "profit": [90,190,360,650,1150]
+
+            },
+            {
+                "name": "Эрмитаж",
+                "image": "images/orange/3.PNG",
+                "profit": [110,220,400,700,1250]
+
+            }],
+            "pink": [
+            {
+                "name": "БКЗ",
+                "image": "images/pink/1.PNG",
+                "profit": [140,300,550,950,1650]
+
+            },
+            {
+                "name": "Гигант-Холл",
+                "image": "images/pink/2.PNG",
+                "profit": [120,260,500,850,1550]
+
+            },
+            {
+                "name": "Клуб космонавт",
+                "image": "images/pink/3.PNG",
+                "profit": [100,230,450,800,1400]
+            }],
+            "red": [
+            {
+                "name": "СКК Ледовый",
+                "image": "images/red/1.PNG",
+                "profit": [140,310,380,1000,1800]
+
+            },
+            {
+                "name": "Стадион Крестовский",
+                "image": "images/red/2.PNG",
+                "profit": [190,390,700,1200,2200]
+            },
+            {
+                "name": "Стадион петровский",
+                "image": "images/red/3.PNG",
+                "profit": [160,340,640,1100,2000]
+
+            }],
+            "lightgreen": [
+            {
+                "name": "Гостиница Англетер",
+                "image": "images/lightgreen/1.PNG",
+                "profit": [180,400,720,1250,2300]
+
+            },
+            {
+                "name": "Гостиница Астория",
+                "image": "images/lightgreen/2.PNG",
+                "profit": [200,420,770,1300,2400]
+            },
+            {
+                "name": "Гранд-отель Европа",
+                "image": "images/lightgreen/3.PNG",
+                "companySellCost": 680,
+                "profitUpSell": 250,
+                "profitUpPrice": 500,
+                "profit": [220,460,830,1400,2600]
+
+            }],
+            "green": [
+            {
+                "name": "Большой гостиный двор",
+                "image": "images/green/1.PNG",
+                "profit": [230,470,850,1450,2600]
+            },
+            {
+                "name": "ДЛТ",
+                "image": "images/green/2.PNG",
+                "profit": [240,500,910,1550,2800]
+            },
+            {
+                "name": "ТРЦ Галерея",
+                "image": "images/green/3.PNG",
+                "profit": [270,540,1000,1650,3000]
+
+            }],
+            "blue": [
+            {
+                "name": "Вк",
+                "image": "images/blue/1.PNG",
+                "profit": [310,630,1150,1900,3400]
+
+            },
+            {
+                "name": "Йота",
+                "image": "images/blue/2.PNG",
+                "profit": [260,530,1000,1700,3000]
+
+            },
+            {
+                "name": "Мегафон",
+                "image": "images/blue/3.PNG",
+                "profit": [280,530,1100,1800,3200]
+
+            }],
+            "purple": [
+            {
+                "name": "ОАО Газпром",
+                "image": "images/purple/1.PNG",
+                "profit": [360,750,1400,2300,4200]
+
+            },
+            {
+                "name": "ЛенЭрго",
+                "image": "images/purple/2.PNG",
+                "profit": [320,680,1300,2200,3900]
+
+            },
+            {
+                "name": "Электросила",
+                "image": "images/purple/3.PNG",
+                "profit": [310,630,1200,2000,3700]
+
+            }]
+        },
+    "conjectures": [{
+            "yellow": 1.4,
+            "orange": 0.6,
+            "pink": 1.5,
+            "red": 1.8,
+            "lightgreen": 0,
+            "green": 1,
+            "blue": 1.4,
+            "purple": 0.8,
+            "image": "images/conjectures/1.png"
+        },
+        {
+            "yellow": 0.5,
+            "orange": 0.8,
+            "pink": 1,
+            "red": -0.6,
+            "lightgreen": 1.8,
+            "green": 1.2,
+            "blue": 1.6,
+            "purple": 1.5,
+            "image": "images/conjectures/2.png"
+        },
+        {
+            "yellow": 0.6,
+            "orange": 1.5,
+            "pink": 1.2,
+            "red": 0.2,
+            "lightgreen": 0.4,
+            "green": 1.4,
+            "blue": 0.6,
+            "purple": 1.5,
+            "image": "images/conjectures/3.png"
+        },
+        {
+            "yellow": 1.1,
+            "orange": -0.2,
+            "pink": 1.6,
+            "red": 1.5,
+            "lightgreen": 1.2,
+            "green": 1.4,
+            "blue": 0.4,
+            "purple": 1.4,
+            "image": "images/conjectures/4.png"
+        },
+        {
+            "yellow": 0.8,
+            "orange": 0.8,
+            "pink": 1.4,
+            "red": 1,
+            "lightgreen": 1.5,
+            "green": 0.4,
+            "blue": 0.8,
+            "purple": 0.8,
+            "image": "images/conjectures/5.png"
+        },
+        {
+            "yellow": -0.5,
+            "orange": -1,
+            "pink": -1,
+            "red": -1.5,
+            "lightgreen": -0.5,
+            "green": -1.5,
+            "blue": 1.5,
+            "purple": -0.5,
+            "image": "images/conjectures/6.png"
+        },
+        {
+            "yellow": 1.5,
+            "orange": 1.5,
+            "pink": 2,
+            "red": 2,
+            "lightgreen": 1.5,
+            "green": 2.5,
+            "blue": 0.5,
+            "purple": 1.5,
+            "image": "images/conjectures/7.png"
+        },
+        {
+            "yellow": 1.4,
+            "orange": 1.2,
+            "pink": 0.8,
+            "red": 1,
+            "lightgreen": 1.4,
+            "green": 0.6,
+            "blue": 2,
+            "purple": -0.3,
+            "image": "images/conjectures/8.png"
+        },
+        {
+            "yellow": 1,
+            "orange": 1.2,
+            "pink": 0.8,
+            "red": 1.4,
+            "lightgreen": 0.8,
+            "green": -0.4,
+            "blue": 1.2,
+            "purple": 1.4,
+            "image": "images/conjectures/9.png"
+        },
+        {
+            "yellow": 1.2,
+            "orange": 1.8,
+            "pink": -0.4,
+            "red": 1.2,
+            "lightgreen": 0.6,
+            "green": 1.8,
+            "blue": 1,
+            "purple": 0.5,
+            "image": "images/conjectures/10.png"
+        }
+
+    ]
+}
+

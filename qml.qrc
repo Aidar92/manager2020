@@ -1,0 +1,107 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/blue/1.PNG</file>
+        <file>images/blue/2.PNG</file>
+        <file>images/blue/3.PNG</file>
+        <file>images/green/1.PNG</file>
+        <file>images/green/2.PNG</file>
+        <file>images/green/3.PNG</file>
+        <file>images/lightgreen/1.PNG</file>
+        <file>images/lightgreen/2.PNG</file>
+        <file>images/lightgreen/3.PNG</file>
+        <file>images/orange/1.PNG</file>
+        <file>images/orange/2.PNG</file>
+        <file>images/orange/3.PNG</file>
+        <file>images/pink/1.PNG</file>
+        <file>images/pink/2.PNG</file>
+        <file>images/pink/3.PNG</file>
+        <file>images/purple/1.PNG</file>
+        <file>images/purple/2.PNG</file>
+        <file>images/purple/3.PNG</file>
+        <file>images/red/1.PNG</file>
+        <file>images/red/2.PNG</file>
+        <file>images/red/3.PNG</file>
+        <file>images/yellow/1.PNG</file>
+        <file>images/yellow/2.PNG</file>
+        <file>images/yellow/3.PNG</file>
+        <file>CashWindow.qml</file>
+        <file>data.json</file>
+        <file>CompanyWindow.qml</file>
+        <file>ConjectureWindow.qml</file>
+        <file>EditWindow.qml</file>
+        <file>HelloWindow.qml</file>
+        <file>LevelUpWindow.qml</file>
+        <file>main.qml</file>
+        <file>MenuDelegate.qml</file>
+        <file>images/buttons/buyCompany.png</file>
+        <file>images/buttons/buyLevelUp.png</file>
+        <file>images/buttons/conj.png</file>
+        <file>images/buttons/editPlayers.png</file>
+        <file>images/buttons/profit.png</file>
+        <file>images/conjectures/кнопки/1.png</file>
+        <file>images/conjectures/кнопки/10.png</file>
+        <file>images/conjectures/кнопки/2.png</file>
+        <file>images/conjectures/кнопки/3.png</file>
+        <file>images/conjectures/кнопки/4.png</file>
+        <file>images/conjectures/кнопки/5.png</file>
+        <file>images/conjectures/кнопки/6.png</file>
+        <file>images/conjectures/кнопки/7.png</file>
+        <file>images/conjectures/кнопки/8.png</file>
+        <file>images/conjectures/кнопки/9.png</file>
+        <file>images/figures/levels/y1.png</file>
+        <file>images/figures/levels/y2.png</file>
+        <file>images/figures/levels/y3.png</file>
+        <file>images/figures/levels/y4.png</file>
+        <file>images/назания предприятий/01 мдт.png</file>
+        <file>images/назания предприятий/02 бдт.png</file>
+        <file>images/назания предприятий/03 мариинский.png</file>
+        <file>images/назания предприятий/04 кунсткамера.png</file>
+        <file>images/назания предприятий/05 русский музей.png</file>
+        <file>images/назания предприятий/06 эрмитаж.png</file>
+        <file>images/назания предприятий/07 космонавт.png</file>
+        <file>images/назания предприятий/08 гигант-холл.png</file>
+        <file>images/назания предприятий/09 бкз.png</file>
+        <file>images/назания предприятий/10 ледовый.png</file>
+        <file>images/назания предприятий/11 петровский.png</file>
+        <file>images/назания предприятий/12 крестовский.png</file>
+        <file>images/назания предприятий/13 англетер.png</file>
+        <file>images/назания предприятий/14 астория.png</file>
+        <file>images/назания предприятий/15 европа.png</file>
+        <file>images/назания предприятий/16 гостинка.png</file>
+        <file>images/назания предприятий/17 длт.png</file>
+        <file>images/назания предприятий/18 галерея.png</file>
+        <file>images/назания предприятий/19 йота.png</file>
+        <file>images/назания предприятий/20 мегафон.png</file>
+        <file>images/назания предприятий/21 вк.png</file>
+        <file>images/назания предприятий/21 элктросила.png</file>
+        <file>images/назания предприятий/22 ленэнерго.png</file>
+        <file>images/назания предприятий/24 газпром.png</file>
+        <file>images/background.png</file>
+        <file>images/manager2020.png</file>
+        <file>images/figures/players/angel.png</file>
+        <file>images/figures/players/angel2.png</file>
+        <file>images/figures/players/chizik.png</file>
+        <file>images/figures/players/chizik2.png</file>
+        <file>images/figures/players/grifon.png</file>
+        <file>images/figures/players/grifon2.png</file>
+        <file>images/figures/players/lion.png</file>
+        <file>images/figures/players/lion2.png</file>
+        <file>images/figures/players/sphinx.png</file>
+        <file>images/figures/players/sphinx2.png</file>
+        <file>images/buttons/buyCompany2.png</file>
+        <file>images/buttons/buyLevelUp2.png</file>
+        <file>images/buttons/conj2.png</file>
+        <file>images/buttons/editPlayers2.png</file>
+        <file>images/buttons/profit2.png</file>
+        <file>images/conjectures/1.png</file>
+        <file>images/conjectures/2.png</file>
+        <file>images/conjectures/3.png</file>
+        <file>images/conjectures/4.png</file>
+        <file>images/conjectures/5.png</file>
+        <file>images/conjectures/6.png</file>
+        <file>images/conjectures/7.png</file>
+        <file>images/conjectures/8.png</file>
+        <file>images/conjectures/9.png</file>
+        <file>images/conjectures/10.png</file>
+    </qresource>
+</RCC>
